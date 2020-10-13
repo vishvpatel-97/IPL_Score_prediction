@@ -8,4 +8,10 @@
 
 [Web App Link](https://vishviplscoreprediction.herokuapp.com/)
 
+## Project brief:
+
+- Data consists of IPL matches held between 2008 to 2017.
+- **Data cleaning & data preprocessing** has been done to the data.
+- **Linear Regression** has been applied to the model for final prediction.
+
 
