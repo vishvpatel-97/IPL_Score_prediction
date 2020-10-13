@@ -1,3 +1,3 @@
 # IPL First Innings Score Prediction
 
-![](https://github.com/vishvpatel-97/IPL_Score_prediction/blob/master/static/IPL.webp)
+<img src="https://github.com/vishvpatel-97/IPL_Score_prediction/blob/master/static/IPL.webp" width=600, height=500>
