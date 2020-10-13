@@ -1,3 +1,3 @@
-# IPL_score_prediction
+# IPL First Innings Score Prediction
 
-![](IPL(1).gif)
+
